@@ -1574,3 +1574,169 @@ Processing by ResultsController#index as HTML
 Completed 200 OK in 380ms (Views: 3.0ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:01:16 +1100
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/poorgrahamsalmanack/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 217ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:01:25 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 140ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:04:03 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 159ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:08:15 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 485ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:08:35 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 130ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:08:43 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 121ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:11:16 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 162ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:14:25 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 228ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:15:19 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 129ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:15:29 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 118ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:16:13 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 132ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:16:51 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 759ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:17:09 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 219ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:17:37 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 131ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:17:59 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 127ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:19:18 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 3191ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:19:46 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 248ms (Views: 15.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:20:19 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 128ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:21:15 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 3148ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:21:51 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 123ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:25:39 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 417ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:26:32 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 159ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-21 17:28:31 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 194ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-10-22 20:14:39 +1100
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/poorgrahamsalmanack/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/poorgrahamsalmanack/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/poorgrahamsalmanack/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.4ms)
+Completed 200 OK in 7ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results" for ::1 at 2019-10-22 20:14:44 +1100
+Processing by ResultsController#index as HTML
+Completed 200 OK in 18ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1564581600000&before=1567173600000&interval=1d" for ::1 at 2019-10-22 20:15:01 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1564581600000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 447ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/results/?query=Scott+Morrison&after=1565186400000&before=1567173600000&interval=1d" for ::1 at 2019-10-22 20:15:08 +1100
+Processing by ResultsController#index as HTML
+  Parameters: {"query"=>"Scott Morrison", "after"=>"1565186400000", "before"=>"1567173600000", "interval"=>"1d"}
+Completed 200 OK in 770ms (Views: 24.1ms | ActiveRecord: 0.0ms)
+
+

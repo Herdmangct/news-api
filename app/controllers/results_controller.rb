@@ -3,7 +3,7 @@ require 'elasticsearch'
 class ResultsController < ApplicationController
     def index 
 
-        client = Elasticsearch::Client.new url: 'https://elastic:streem@sample.es.streem.com.au:9243', log: true
+        client = Elasticsearch::Client.new url: "https://#{ENV["PASSWORD"]}:#{ENV["USERNAME"]}@sample.es.streem.com.au:9243", log: true
 
         if params[:query] && params[:before] && params[:after] && params[:interval]
           results = client.search index: 'news',
@@ -72,7 +72,7 @@ class ResultsController < ApplicationController
                             }
 
           render json: results
-          
+
         else 
           render json: {status: "error", code: 3000, message: "Can't execute api request without query, before, after and interval data"}
         end
